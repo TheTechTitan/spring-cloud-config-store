@@ -1,0 +1,10 @@
+user:
+ order:
+  min: 5
+  max: 40
+ price:
+  discount: 3.5
+item:
+ default:
+  model: cross over
+duration: all
